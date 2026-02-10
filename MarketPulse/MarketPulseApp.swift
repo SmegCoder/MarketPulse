@@ -1,10 +1,3 @@
-//
-//  MarketPulseApp.swift
-//  MarketPulse
-//
-//  Created by Матвей Петрушов on 10.02.2026.
-//
-
 import SwiftUI
 
 @main
