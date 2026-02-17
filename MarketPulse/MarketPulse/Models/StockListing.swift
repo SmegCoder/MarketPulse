@@ -1,7 +1,7 @@
 import Foundation
 
 struct StockListing: Identifiable, Codable, Hashable {
-    var id: String { "\(symbol)|\(exchange)|\(assetType)" }   // <-- ВАЖНО (уникально)
+    var id: String { "\(symbol)|\(exchange)|\(assetType)" }
 
     let symbol: String
     let name: String
